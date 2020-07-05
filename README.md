@@ -6,6 +6,7 @@
     - Express
     - Mongoose
     - MongoDB
+    - Docker
 
 ### Instalattion
 
