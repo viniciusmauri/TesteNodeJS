@@ -1,0 +1,10 @@
+{
+  "development": {
+    "database": "testnodejs",
+    "host": "localhost",
+    "dialect": "mongodb",
+    "username": "admin",
+    "password": "admin@2020",
+    "quoteIdentifiers": false
+  }
+}
